@@ -1,0 +1,70 @@
+.sidebar {
+    -fx-background-color: #12181F;
+    -fx-padding: 20;
+    -fx-spacing: 15;
+}
+
+.sidebar-title {
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+
+.nav-button {
+    -fx-background-color: transparent;
+    -fx-text-fill: #A0AAB2;
+    -fx-alignment: center-left;
+    -fx-padding: 10;
+    -fx-font-size: 14;
+}
+
+.nav-button:hover {
+    -fx-background-color: #24333E;
+    -fx-text-fill: white;
+}
+
+.dashboard-panel {
+    -fx-padding: 30px;
+    -fx-spacing: 20px;
+}
+
+.welcome-header {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.section-header {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+.balance-card {
+    -fx-background-color: #2ECC71;
+    -fx-background-radius: 10px;
+    -fx-padding: 15px;
+}
+
+.balance-label {
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+}
+
+.balance-amount {
+    -fx-text-fill: white;
+    -fx-font-size: 32;
+    -fx-font-weight: bold;
+}
+
+.btn-deposit {
+    -fx-background-color: #3498DB;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 10 24 10 24;
+}
+
+.btn-withdraw {
+    -fx-background-color: #E74C3C;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 10 24 10 24;
+}
